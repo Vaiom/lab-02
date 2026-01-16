@@ -13,5 +13,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-`student` (`student`)
-`<Add more>` (`<CCID>`)
+| `Abhinav Bhattarai` | `bhattar5` |
+| `<Add more>` | `<CCID>` |
