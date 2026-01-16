@@ -21,3 +21,4 @@
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Abhinav Bhattarai` | `bhattar5` |
+| `Alan Yu` | `ayu8` |
